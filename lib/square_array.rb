@@ -5,5 +5,5 @@ def square_array(array)
       new_array.index(array[count] ** 2)
      count += 1
     end
-  
+  new_array
 end
